@@ -1,0 +1,17 @@
+while(2+2<500):
+print("loop infinito")
+
+EJemplo express de piedra papel o tijera para entenderlo rapido 
+juaA=int(input("juaA elige piedra(1), elije papel(2)
+jua2=in      (1)(2)
+while juga2== juaA:
+  print ("empate")
+  juaA=int(input...
+  jua2=int
+while juga2!= juaA  :
+  if(juaA==1 and jua2==2):
+    print("ganador: jugador b ")
+    #salir del loop a lo indio
+    juaA=-1
+    jua2=0
+  
